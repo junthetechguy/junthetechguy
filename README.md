@@ -2,7 +2,7 @@
 
 <h4> [Portfolio] [Portfolio](https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b) </h4>
 
-[Tech Blog] [Tech Blog](https://junthetechguy.tistory.com/)
+<h4> [Tech Blog] [Tech Blog](https://junthetechguy.tistory.com/) </h4>
 
 <h1> Tech Stacks ⚡ </h1>
 
