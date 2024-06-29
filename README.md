@@ -2,7 +2,7 @@
 
 [Portfolio] [Portfolio][https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b]
 
-[Tech Blog] [Tech Blog][https://han-joon-hyeok.github.io/](https://junthetechguy.tistory.com/]
+[Tech Blog] [Tech Blog][https://junthetechguy.tistory.com/]
 
 ## Tech Stacks ⚡
 
