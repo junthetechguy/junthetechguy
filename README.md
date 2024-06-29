@@ -1,52 +1,66 @@
-<h1>Young Jun Byun✿˘◡˘✿</h1>
-👋 Introduce 
+<h1> Hi there, I'm Jun 👋 </h1>
 
-<br>
+[Portfolio] [Portfolio →](https://joon-hyuk-han.notion.site/Frontend-Developer-f51615aa76d340bc874521c6b4e70e80](https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b)
 
+[Tech Blog] [Tech Blog →](https://han-joon-hyeok.github.io/](https://junthetechguy.tistory.com/)
 
+## Tech Stacks ⚡
 
-🔭 Work
- (Offer starts at 2024.10
-- AWS(Amazon Web Services) | Cloud Support  (2024.10 ~ )<br>
-_* 멘탈헬스케어 MyBrainStory 솔루션을 제공하는 스타트업_
+<h4> Web </h4>
+<p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-<br>
+<h4> Language </h4>
+<p>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
+<h4> Framework </h4>
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
 
+<h4> Database </h4>
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
-🎓 Education & Certificate
+<h4> Data Analysis </h4>
+<p>
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-<ul>
-  <li> 순천향대학교 의료 it공학과 학사 (2019.02 ~ 2023.02)</li>
-  <li> 정보처리기사</li>
-  <li> SQL 개발자(SQL Developer)</li>
-</ul>
+<h4> CI/CD </h4>
+<p>
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
-<br>
+<h4> Design </h4>
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
+<h4> Tools </h4>
+<p>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
 
-
-📚 Tech stacks
- 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
-<br>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<br> 
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">  <img src="https://img.shields.io/badge/swr-000000?style=for-the-badge&logo=swr&logoColor=white"> <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white"> 
-
-<br>
-
-
-
-🌱 I’m currently learning
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajung00&langs_count=5&layout=compact&theme=dracula)](https://github.com/hajung00/hajung00) [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajung00&hide=stars,contribs&show_icons=true&&theme=dracula)](https://github.com/hajung00/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-Joon-Hyeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**hajung00/hajung00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Han-Joon-Hyeok/Han-Joon-Hyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -58,4 +72,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+
+Reference Sites
+
+- README.md Reference
+  - https://github.com/abhisheknaiidu/awesome-github-profile-readme
+  - https://metleeha.tistory.com/entry/깃헙-프로필-꾸미기
+
+- Markdown Badges
+  - https://github.com/Ileriayo/markdown-badges
+  - https://simpleicons.org/
+
 -->
