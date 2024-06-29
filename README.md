@@ -1,5 +1,7 @@
 <h1> Hi there, I'm Jun :) 👋 </h1>
 
+## Intro 📚
+
 [Portfolio] [Portfolio](https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b)
 
 [Tech Blog] [Tech Blog](https://junthetechguy.tistory.com/)
