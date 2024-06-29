@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Jun 👋 </h1>
 
-[Portfolio] [Portfolio](https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b)
+<h4> [Portfolio] [Portfolio](https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b) </h4>
 
 [Tech Blog] [Tech Blog](https://junthetechguy.tistory.com/)
 
