@@ -1,8 +1,8 @@
 <h1> Hi there, I'm Jun :) 👋 </h1>
 
-[Portfolio] [Portfolio][https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b]
+[Portfolio] [Portfolio](https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b)
 
-[Tech Blog] [Tech Blog][https://junthetechguy.tistory.com/]
+[Tech Blog] [Tech Blog](https://junthetechguy.tistory.com/)
 
 ## Tech Stacks ⚡
 
@@ -58,32 +58,3 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-Joon-Hyeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Han-Joon-Hyeok/Han-Joon-Hyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-
-Reference Sites
-
-- README.md Reference
-  - https://github.com/abhisheknaiidu/awesome-github-profile-readme
-  - https://metleeha.tistory.com/entry/깃헙-프로필-꾸미기
-
-- Markdown Badges
-  - https://github.com/Ileriayo/markdown-badges
-  - https://simpleicons.org/
-
--->
