@@ -37,7 +37,6 @@
 <p>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
 
-
 <h4> IaaS </h4>
 <p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -50,8 +49,15 @@
 
 <h4> Serverless </h4>
 <p>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+<h4> Container Orchestration Tool </h4>
+<p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
+
+
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
