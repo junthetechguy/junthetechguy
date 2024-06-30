@@ -1,8 +1,8 @@
 <h1> Hi there, I'm Jun 👋 </h1>
 
-<h4> <a href="https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b">Portfolio</a> </h4>
+<h4> [Portfolio] <a href="https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b">Portfolio</a> </h4>
 
-<h4> <a href="https://junthetechguy.tistory.com/">Tech Blog</a> </h4>
+<h4> [Tech Blog] <a href="https://junthetechguy.tistory.com/">Tech Blog</a> </h4>
 
 <h1> Tech Stacks ⚡ </h1>
 
