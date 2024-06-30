@@ -4,6 +4,8 @@
 
 <h4> [Tech Blog] <a href="https://junthetechguy.tistory.com/">Tech Blog</a> </h4>
 
+<li></li>
+
 <h1> Tech Stacks ⚡ </h1>
 
 <h4> Web Framework </h4>
