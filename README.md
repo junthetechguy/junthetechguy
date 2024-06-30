@@ -23,11 +23,20 @@
   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
 </p>
 
-<h4> Database </h4>
+<h4> RDBMS </h4>
 <p>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
+<h4> NoSQL </h4>
+<p>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<h4> Event Driven Tool </h4>
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
+
 
 <h4> IaaS </h4>
 <p>
