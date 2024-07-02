@@ -2,9 +2,10 @@
 
 <h4> [Resume] <a href="https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b">Resume</a> </h4>
 
-<h4> [Portfolio] <a href="https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b">Portfolio</a> </h4>
-
 <h4> [Tech Blog] <a href="https://junthetechguy.tistory.com/">Tech Blog</a> </h4>
+
+<h4> [Portfolio] <a href="https://skitter-torta-3a3.notion.site/Portfolio-15b6e33f11e0434eac9551b6b5c55e73">Portfolio</a> </h4>
+
 
 
 <h1> 🏢 Work Experience 🏢 </h1>
