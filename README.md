@@ -1,6 +1,6 @@
 <h1> 👋 About Me 👋 </h1>
 
-<h4> [Linkedin] <a href="https://www.linkedin.com/in/youngjun-byun-byeon-118679281/">Linkedin</a> </h4>
+<h4> [Linkedin] <a href="https://www.linkedin.com/in/youngjun-byun-118679281/">Linkedin</a> </h4>
 
 <h4> [Tech Blog] <a href="https://junthetechguy.tistory.com/">Tech Blog</a> </h4>
 
