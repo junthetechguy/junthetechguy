@@ -6,7 +6,7 @@
 
 <h1> Work Experience 👋 </h1>
 
-<h4> Cloud Support Engineer, AWS, Dublin, Ireland 10/2024 - Present </h4>
+<h4> Cloud Support Engineer, Amazon Web Services, Dublin, Ireland 10/2024 - Present </h4>
 
 <h4>  </h4>
 
