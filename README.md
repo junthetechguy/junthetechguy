@@ -13,7 +13,7 @@
 <h4> Combat Medic(Sergeant), Republic Of Korea Army, Cheorwon-gun, South Korea, 12/2016 - 09/2018 </h4>
 
 <h1> Education & Certificate 👋 </h1>
-<h4> M.S in Computer Science, Georgia Institute of Technology, Atlanta(Online), USA 09/2025(Planned) -  </h4>
+<h4> M.S in Computer Science, Georgia Institute of Technology(Online class only), Atlanta, USA 09/2025(Accepted) -  </h4>
 <h4> B.S in Computer Engineering, Korea Aerospace University(Magna Cum Laude : GPA 95.4), Goyang-si, Ireland 03/2020 - 08/2024 </h4>
 <h4> AWS Certified DevOps Professional, 07/2024 </h4>
 <h4> AWS Certified Solution Architect Professional, 07/2024 </h4>
