@@ -4,6 +4,13 @@
 
 <h4> [Tech Blog] <a href="https://junthetechguy.tistory.com/">Tech Blog</a> </h4>
 
+<h1> Work Experience 👋 </h1>
+
+<h4> Cloud Support Engineer, AWS, Dublin, Ireland 10/2024 - Present </h4>
+
+<h4>  </h4>
+
+
 <h1> Tech Stack ⚡ </h1>
 
 <h4> Web Framework/Libraries </h4>
