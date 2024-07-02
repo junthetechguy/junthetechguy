@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Jun 👋 </h1>
+<h1> About Me 👋 </h1>
 
 <h4> [Portfolio] <a href="https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b">Portfolio</a> </h4>
 
