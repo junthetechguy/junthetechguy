@@ -1,10 +1,10 @@
-<h1> About Me 👋 </h1>
+<h1> 👋 About Me 👋 </h1>
 
 <h4> [Portfolio] <a href="https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b">Portfolio</a> </h4>
 
 <h4> [Tech Blog] <a href="https://junthetechguy.tistory.com/">Tech Blog</a> </h4>
 
-<h1> Work Experience 👋 </h1>
+<h1> 🏢 Work Experience 🏢 </h1>
 
 <h4> Cloud Support Engineer, Amazon Web Services, Dublin, Ireland 10/2024(Offered) -  </h4>
 
@@ -12,7 +12,7 @@
 
 <h4> Combat Medic(Sergeant), Republic Of Korea Army, Cheorwon-gun, South Korea, 12/2016 - 09/2018 </h4>
 
-<h1> Education & Certificate 👋 </h1>
+<h1> 🎓 Education & Certificate 🎓 </h1>
 <h4> M.S in Computer Science, Georgia Institute of Technology(Online class only), Atlanta, USA 09/2025(Accepted) -  </h4>
 <h4> B.S in Computer Engineering, Korea Aerospace University(Magna Cum Laude : GPA 95.4), Goyang-si, Ireland 03/2020 - 08/2024 </h4>
 <h4> AWS Certified DevOps Professional, 07/2024 </h4>
