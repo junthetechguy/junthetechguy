@@ -6,7 +6,7 @@
 
 <h4> [Portfolio] <a href="https://skitter-torta-3a3.notion.site/Portfolio-15b6e33f11e0434eac9551b6b5c55e73">Portfolio</a> </h4>
 
-<h1> Tech Stack ⚡ </h1>
+<h1> ⚡ Tech Stack ⚡ </h1>
 
 <h4> Web Framework/Libraries </h4>
 <p>
