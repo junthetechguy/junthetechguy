@@ -1,8 +1,11 @@
 <h1> 👋 About Me 👋 </h1>
 
+<h4> [Resume] <a href="https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b">Resume</a> </h4>
+
 <h4> [Portfolio] <a href="https://www.notion.so/1acc0376b83c4275bdfa6ff7bf84e74b">Portfolio</a> </h4>
 
 <h4> [Tech Blog] <a href="https://junthetechguy.tistory.com/">Tech Blog</a> </h4>
+
 
 <h1> 🏢 Work Experience 🏢 </h1>
 
