@@ -19,6 +19,7 @@
 <h4> AWS Certified Solution Architect Professional, 07/2024 </h4>
 <h4> Certified Kubernetes Administrator, 07/2024 </h4>
 <h4> Certified Kubernetes Application Developer, 07/2024 </h4>
+<h4> Certified Kubernetes Secuirty Specialist, 07/2024 </h4>
 <h4> 정보처리기사, 06/2024 </h4>
 <h4> 컴퓨터활용능력 1급, 04/2021 </h4>
 
