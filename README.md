@@ -6,28 +6,6 @@
 
 <h4> [Portfolio] <a href="https://skitter-torta-3a3.notion.site/Portfolio-15b6e33f11e0434eac9551b6b5c55e73">Portfolio</a> </h4>
 
-
-
-<h1> 🏢 Work Experience 🏢 </h1>
-
-<h4> Cloud Support Engineer, Amazon Web Services, Dublin, Ireland 10/2024(Offered) -  </h4>
-
-<h4> Embedded Software Engineer(Intern), DRIMAES, Seoul, South Korea 12/2022 - 02/2023 </h4>
-
-<h4> Combat Medic(Sergeant), Republic Of Korea Army, Cheorwon-gun, South Korea, 12/2016 - 09/2018 </h4>
-
-<h1> 🎓 Education & Certificate 🎓 </h1>
-<h4> M.S in Computer Science, Georgia Institute of Technology, Atlanta(Online class only), USA 09/2025(Accepted) -  </h4>
-<h4> B.S in Computer Engineering, Korea Aerospace University(Magna Cum Laude : GPA 95.4), Goyang-si, Ireland 03/2020 - 08/2024 </h4>
-<h4> AWS Certified DevOps Professional, 07/2024 </h4>
-<h4> AWS Certified Solution Architect Professional, 07/2024 </h4>
-<h4> Certified Kubernetes Administrator, 07/2024 </h4>
-<h4> Certified Kubernetes Application Developer, 07/2024 </h4>
-<h4> Certified Kubernetes Secuirty Specialist, 07/2024 </h4>
-<h4> 정보처리기사, 06/2024 </h4>
-<h4> 컴퓨터활용능력 1급, 04/2021 </h4>
-
-
 <h1> Tech Stack ⚡ </h1>
 
 <h4> Web Framework/Libraries </h4>
